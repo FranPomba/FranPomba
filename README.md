@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, seja bem-vindo ao meu perfil! 👋
 
-<!--
-**FranPomba/FranPomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Francisco Pomba e estou cursando Ciências da computação. 
+Sou apaixonado por desenvolvimento de software e adoro explorar novas tecnologias para criar soluções únicas.
 
-Here are some ideas to get you started:
+## Sobre mim
+- 📚 Meus projetos exploram tecnologias como **Python**, **PHP** com **TwigTemplate** e **SimpleRouter**.
+- 🎯 Objetivo atual: aprofundar conhecimentos em **Laravel**,  **Python** e aprimorar minhas habilidades com **Django**.
+- 🎨 Hobbies: ler livros, aprender algo novo e contribuir com a comunidade de desenvolvedores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+## Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/francisco-pomba)
+- 📧 Email: francislevisspomba@gmail.com
+
+---
+
+Sinta-se à vontade para explorar meus repositórios e contribuir. Feedbacks são sempre bem-vindos! 😊
