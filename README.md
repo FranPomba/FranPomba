@@ -18,7 +18,7 @@ Sou apaixonado por desenvolvimento de software e adoro explorar novas tecnologia
 ## Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/francisco-pomba)
-- 🧾 [twitter] (https://x.com/PombaFrancisco)
+- 🧾 [Twitter](https://x.com/PombaFrancisco)
 - 📧 Email: francislevisspomba@gmail.com
 
 ---
